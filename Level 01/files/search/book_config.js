@@ -1,0 +1,1 @@
+var textForPages =["THEREDHATReadingSeriesLEVEL01","Iseearedhat.Itisonthebed.Thecatisonthemat","The cat sees the hat.The cat jumps on the bed.The hat is flat now!","A dog runs in.The dog sees the cat. Thedog barks, \"Woof, woof!\"","TTHHAANNKKYYOOUUYoudidit!Youreadthewholebook.Let\u2019skeepreading!\ud83d\udcd5\ud83d\udc1b\ud83d\udc31"]
